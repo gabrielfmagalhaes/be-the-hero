@@ -5,6 +5,7 @@
 # Be The Hero 
 
 Be The Hero é um projeto desenvolvido durante a 11ª edição da semana OmniStack da empresa RocketSeat. Neste evento, foi desenvolvido uma aplicação completa (Web e mobile) para unir doadores à ONGs e instituições carentes.
+
 **&copy; <img src="imgs/rocketseat.svg" alt="rocketseat" height="20"> [Rocketseat](https://rocketseat.com.br/)**
 
 
