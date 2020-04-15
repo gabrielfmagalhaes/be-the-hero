@@ -5,10 +5,11 @@
 # Be The Hero 
 
 Be The Hero é um projeto desenvolvido durante a 11ª edição da semana OmniStack da empresa RocketSeat. Neste evento, foi desenvolvido uma aplicação completa (Web e mobile) para unir doadores à ONGs e instituições carentes.
+**&copy; <img src="imgs/rocketseat.svg" alt="rocketseat" height="20"> [Rocketseat](https://rocketseat.com.br/)**
+
 
 <h3> Tecnologias Utilizadas: <img src="imgs/react.png" alt="react" height="18"> React, <img src="imgs/react-native.png" alt="react-native" height="18"> React Native, <img src="imgs/node.png" alt="node" height="18"> NodeJS e <img src="imgs/sqlite.png" alt="node" height="18"> SQLite </h3>
 
-**&copy; <img src="imgs/rocketseat.svg" alt="rocketseat" height="20"> [Rocketseat](https://rocketseat.com.br/)**
 
 
 ## Instalação
@@ -18,6 +19,7 @@ Primeiramente é necessário realizar o clone do projeto. Feito isso, será nece
 Execute o comando ```yarn``` ou ```npm install``` nas pastas de backend, frontend e mobile para instalar as dependências do projeto.
 
 Por fim, utilize o comendo ```npm start``` ou ```yarn start``` nas pastas de backend, frontend e mobile para inicializar as partes da aplicação.
+
 
 
 ## Telas
