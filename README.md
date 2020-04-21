@@ -19,7 +19,7 @@ Primeiramente é necessário realizar o clone do projeto. Feito isso, será nece
 
 Execute o comando ```yarn``` ou ```npm install``` nas pastas de backend, frontend e mobile para instalar as dependências do projeto.
 
-Por fim, utilize o comendo ```npm start``` ou ```yarn start``` nas pastas de backend, frontend e mobile para inicializar as partes da aplicação.
+Por fim, utilize o comando ```npm start``` ou ```yarn start``` nas pastas de backend, frontend e mobile para inicializar as partes da aplicação.
 
 
 
